@@ -1,0 +1,5 @@
+To Run:
+
+Parameters for SVM can be changed in SVM.py
+
+Run python run_CNN_SVM
